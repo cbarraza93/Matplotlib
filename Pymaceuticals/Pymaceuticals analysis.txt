@@ -1,0 +1,7 @@
+# The higher the weight, the less effective the drug treatment is: r-value is 0.84 which means there is a correlation between weight and tumor volume (based on scatter plot)
+
+# Ramicane and Capomulin seem to be more effective than Infubinol and Ceftamine (based on box plot)
+
+# There is an almost equal amount of male to female mice (based on pie chart)
+
+# These results of the study seem pretty reliable as there is only 1 outlier out of the top 4 drugs (based on outlier calculations)
